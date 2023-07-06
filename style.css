@@ -199,7 +199,8 @@ hr {
 .card-row {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: space-evenly;
+  
 }
 
 .card1 {
